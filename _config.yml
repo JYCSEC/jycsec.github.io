@@ -12,6 +12,27 @@ baseurl:             ''
 gems:			[jekyll-paginate]
 paginate:            5
 
+collections:
+  fitness:
+    output: true
+    permalink: /fitness/:name
+  psychology:
+    output: true
+    permalink: /psychology/:name
+  music:
+    output: true
+    permalink: /music/:name
+  gaming:
+    output: true
+    permalink: /gaming/:name
+  cars:
+    output: true
+    permalink: /cars/:name
+  travel:
+    output: true
+    permalink: /travel/:name
+
+
 # About/contact
 author:
   name:              Ju Youn Chae

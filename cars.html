@@ -1,0 +1,13 @@
+---
+layout: page-nomenu
+title: Cars
+---
+
+<ul>
+  {% for cars in site.cars %}
+    <li>
+      <h2><a href="{{ cars.url }}">{{ cars.title }}</a></h2>
+      <p>{{ cars.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>

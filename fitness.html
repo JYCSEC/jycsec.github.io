@@ -1,0 +1,13 @@
+---
+layout: page-nomenu
+title: Fitness
+---
+
+<ul>
+  {% for fitness in site.fitness %}
+    <li>
+      <h2><a href="{{ fitness.url }}">{{ fitness.title }}</a></h2>
+      <p>{{ fitness.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>

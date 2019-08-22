@@ -1,0 +1,58 @@
+---
+layout: page
+title: Categories
+---
+
+<h3>Fitness</h3>
+<ul>
+  {% for fitness in site.fitness %}
+    <li>
+      <p style="margin-bottom:4px;"><a href="{{ fitness.url }}">{{ fitness.title }}</a></p>
+    </li>
+  {% endfor %}
+</ul>
+
+<h3>Psychology</h3>
+<ul>
+  {% for psychology in site.psychology %}
+    <li>
+      <p style="margin-bottom:4px;"><a href="{{ psychology.url }}">{{ psychology.title }}</a></p>
+    </li>
+  {% endfor %}
+</ul>
+
+<h3>Music</h3>
+<ul>
+  {% for music in site.music %}
+    <li>
+      <p style="margin-bottom:4px;"><a href="{{ music.url }}">{{ music.title }}</a></p>
+    </li>
+  {% endfor %}
+</ul>
+
+<h3>Gaming</h3>
+<ul>
+  {% for gaming in site.gaming %}
+    <li>
+      <p style="margin-bottom:4px;"><a href="{{ gaming.url }}">{{ gaming.title }}</a></p>
+    </li>
+  {% endfor %}
+</ul>
+
+<h3>Cars</h3>
+<ul>
+  {% for cars in site.cars %}
+    <li>
+      <p style="margin-bottom:4px;"><a href="{{ cars.url }}">{{ cars.title }}</a></p>
+    </li>
+  {% endfor %}
+</ul>
+
+<h3>Travel</h3>
+<ul>
+  {% for travel in site.travel %}
+    <li>
+      <p style="margin-bottom:4px;"><a href="{{ travel.url }}">{{ travel.title }}</a></p>
+    </li>
+  {% endfor %}
+</ul>

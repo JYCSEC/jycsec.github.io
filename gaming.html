@@ -1,0 +1,13 @@
+---
+layout: page-nomenu
+title: Gaming
+---
+
+<ul>
+  {% for gaming in site.gaming %}
+    <li>
+      <h2><a href="{{ gaming.url }}">{{ gaming.title }}</a></h2>
+      <p>{{ gaming.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>

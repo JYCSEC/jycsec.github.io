@@ -1,0 +1,13 @@
+---
+layout: page-nomenu
+title: Music
+---
+
+<ul>
+  {% for music in site.music %}
+    <li>
+      <h2><a href="{{ music.url }}">{{ music.title }}</a></h2>
+      <p>{{ music.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
