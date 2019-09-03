@@ -3,7 +3,7 @@ layout: post
 author: JYCSEC
 ---
 
-On the opposite side of coin to vulnerability research and offensive security, security engineers work varies from building and implementing firewalls and building security tools to detect and stop adversaries from causing damage. In the winter and spring of 2019, I worked in the Northern Virginia area as a security engineer and worked in the defensive side of security.
+On the opposite side of the coin to vulnerability research and offensive security, security engineers work varies from building and implementing firewalls and building security tools to detect and stop adversaries from causing damage. In the winter and spring of 2019, I worked in the Northern Virginia area as a security engineer and worked in the defensive side of security.
 
 Initially, I did work more in line of what I expected of security engineers. I worked with the infrastructure team to deploy security automation in a new environment we were creating. We used Nessus with Splunk integration through Phantom to automate the detection process and have that notify users through rocketchat. Another project I worked on during my time here was deploying a unidirectional gateway into one of our air-gapped networks so we could better sync core repositories more often and smoothly. Due to some limitations of the integrated software, we had to develop a system to better allow uses to use SFTP through the gateway and verify checksums to ensure file integrity. This also proved useful when we were implementing our own RSYNC protocol.
 
