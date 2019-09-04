@@ -27,7 +27,7 @@ While this means that the full body split is the most time efficient split time-
 | Upper-Lower    | 10.5 hours | 10        | 25.40  | 2.42  |
 | Full Body      | 9.5 hours  | 14        | 23.25  | 2.45  |
 
-While this does mean that push-pull-legs is still the least efficient workout time-wise for me, the gap is significantly less than just looking at the time shows. For full body, this along with trying to fit a 3+ hour block of time into a day often makes it worth it to consider the other two splits. Now, for push-pull-legs vs upper-lower splits, I've noticed that it often leaves me feeling like I had to pick between having a pull-focused day versus a push-focused when I was doing upper body. This eventually made me wonder if it would be better to revert back to the Push-Pull-Legs. Currently, that is the experiment I am running now.
+While this does mean that push-pull-legs is still the least efficient workout time-wise for me, the gap is significantly less than just looking at the time shows. For full body, this along with trying to fit a 3+ hour block of time into a day often makes it worth it to consider the other two splits. Now, for push-pull-legs vs upper-lower splits, I've noticed that it often leaves me feeling like I had to pick between having a pull-focused day versus a push-focused when I was doing upper body. This eventually made me wonder if it would be better to revert back to Push-Pull-Legs. Currently, that is the experiment I am running now.
 
 The workout splits I run are:
 
