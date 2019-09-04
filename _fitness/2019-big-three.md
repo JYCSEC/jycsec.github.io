@@ -13,7 +13,7 @@ So, as of July 2019, I decided to strive for a weight lifting goal and hit the 1
 | :------: | :---: | :---: | :------: | :---: |
 | 09/04/19 | 205x5 |       | 275x2    | Might have torn my rotator cuff |
 | 09/01/19 | 200x5 | 185x4 | 265x3    | Week felt good overall. Using this as baseline for improvement |
-| 08/14/19 | 200x2 | 205x1 | 225x1    | First time deadlifting and squatting since 01/24/19 |
+| 08/14/19 | 200x2 | 205x1 | 225x1    | First deadlift and squat since 01/24/19 |
 | 08/02/19 | 195x5 |       |          | First increase in bench since 01/24/19 |
 |          |       |       |          | Hiatus in tracking lifts |
 | 01/24/19 | 185x5 |       | 315x1    | |
