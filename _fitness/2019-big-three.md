@@ -7,7 +7,7 @@ In weightlifting, there are hundreds of different exercises that all serve a spe
 
 I started tracking my lifting around October 2017 and my lifts during that time were: benchpress - 95lbx10, deadlift - 155lbx5, and squats - 135lbx5.
 
-So, as of July 2019, I decided to strive for a weight lifting goal and hit the 1000lb club (One rep maximum for these three lifts add up to 1000lbs). My goals for this year is: Benchpress - 250lbs, Squat - 340lbs, and Deadlift - 415lbs. Total, this would be 1005lbs. For a little bit of reference, I am currently at 160lbs and hope to be down to 150lbs by the end of the year.
+So, as of July 2019, I decided to strive for a weight lifting goal and hit the 1000lb club (One rep maximum for these three lifts add up to 1000lbs). My goals for this year are: Benchpress - 250lbs, Squat - 340lbs, and Deadlift - 415lbs. Total, this would be 1005lbs. For a little bit of reference, I am currently at 160lbs and hope to be down to 150lbs by the end of the year.
 
 | Date     | Bench | Squat | Deadlift |
 | :------: | :---: | :---: | :------: |
