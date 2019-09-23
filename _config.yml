@@ -14,6 +14,9 @@ gems:			[jekyll-paginate]
 paginate:            5
 
 collections:
+  write-ups:
+    output: true
+    permalink: /write-ups/:name
   fitness:
     output: true
     permalink: /fitness/:name
@@ -23,9 +26,6 @@ collections:
   music:
     output: true
     permalink: /music/:name
-  gaming:
-    output: true
-    permalink: /gaming/:name
   cars:
     output: true
     permalink: /cars/:name

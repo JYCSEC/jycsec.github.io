@@ -1,0 +1,13 @@
+---
+layout: page-nomenu
+title: Write-ups
+---
+
+<ul>
+  {% for write-ups in site.write-ups %}
+    <li>
+      <h2><a href="{{ write-ups.url }}">{{ write-ups.title }}</a></h2>
+      <p>{{ write-ups.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
