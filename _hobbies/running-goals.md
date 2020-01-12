@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 2019 Running Goals
+title: Running Goals
+category: Fitness
 ---
 
 For the remainder of 2019, my goals are to reintegrate running into my day-to-day. You can read more about the details [here](why-run.md).

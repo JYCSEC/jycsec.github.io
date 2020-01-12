@@ -17,22 +17,12 @@ collections:
   write-ups:
     output: true
     permalink: /write-ups/:name
-  fitness:
+  security:
     output: true
-    permalink: /fitness/:name
-  reading:
+    permalink: /security/:name
+  hobbies:
     output: true
-    permalink: /reading/:name
-  music:
-    output: true
-    permalink: /music/:name
-  cars:
-    output: true
-    permalink: /cars/:name
-  travel:
-    output: true
-    permalink: /travel/:name
-
+    permalink: /hobbies/:name
 
 # About/contact
 author:

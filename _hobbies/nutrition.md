@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Nutrition
+category: Fitness
 ---
 
 I'm sure everyone's heard the age-old phrase, "Abs are made in the kitchen". Personally, this is something I agree with and over 4 years of manipulating my diet and my nutrition intake, I've been able to try a bunch of different diets and find the one that worked for me.

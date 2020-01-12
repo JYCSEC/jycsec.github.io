@@ -1,0 +1,13 @@
+---
+layout: page-nomenu
+title: Hobbies
+---
+
+<ul>
+  {% for hobbies in site.hobbies %}
+    <li>
+      <h2><a href="{{ hobbies.url }}">{{ hobbies.title }}</a></h2>
+      <p>{{ hobbies.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gym Methodology
+category: Fitness
 ---
 
 Over the years, I've tried different ways of incorporating working out into my daily life. Balancing all my responsibilities and hobbies has always been a struggle, and I've tried many different strategies throughout the years. There are varying [research](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.473.3392&rep=rep1&type=pdf) claiming it takes about 72 hours to recover, and I've chosen my workout splits based on that research (sorry Bro split). Splits I've tried were push-pull-legs, upper-lower, and full body. Later on, I incorporated power & hypertrophy splits to these each of these to ensure a balance of volume and strength training. Each had their pros and cons from a time-balance perspective.

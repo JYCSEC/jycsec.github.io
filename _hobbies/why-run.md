@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Why I run
+category: Fitness
 ---
 
 I've been a runner since middle school and have always enjoyed it as my sport of choice. Throughout middle school and high school, I ran track and field as a sprinter. My main events were the 100m, 200m, and 400m in the spring. For winter track, I ran the 55m, 200m, and the 300m. While the training was usually brutal, I usually found the track meets to be very rewarding.

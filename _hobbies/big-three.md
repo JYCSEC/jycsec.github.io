@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 2019 Big Three Lifts Goals
+title: Big Three Lifts Goals
+category: Fitness
 ---
 
 In weightlifting, there are hundreds of different exercises that all serve a specific purpose. Among these exercises, there are three that stood the test of time and became known as the big three: Benchpress, Squat, and the Deadlift. These are the three lifts that are represented in powerlifting and while they do not contain the complexity and mechanical difficulty of olympic weightlifting, they are usually a person's strongest lifts. This year was the first year I set a goal for these lifts and this was inspired by being stagnant in my lifts for nearly a year.
