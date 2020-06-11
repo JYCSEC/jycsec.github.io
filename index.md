@@ -5,12 +5,10 @@ title: Home
 
 # Welcome!
 
-My name is Ju Youn Chae, and I am studying Computing Security at RIT! I am taking a semester off of school in Fall 2019 to force myself to get my OSCP, and will finish my degree in Spring 2020!
+My name is Ju Youn Chae, and I gradutated RIT with a degree in Computing Security in 2020. (Yes, the infamous Covid year) I am currently working as a consultant at Red Hat with a core focus on cloud solutions with OpenShift. 
 
-I'm personally focused on offensive security and love working on web applications. I primarily come from a CS and networking background and will occasionally post some [career stories](security) and [security write-ups](write-ups)!
+I am security enthusiast and after honing my engineering, management, and consulting skills, I will be moving back into the security world as an application security engineer to hunt bugs and build security into code.
 
-Aside from security, I love running, going to the gym, playing instruments, studying psychology, and traveling! If any of those interested you, check out all the stuff I post about it [here](categories)!
-
-Currently, I am working on building [Hacker Culture FM](https://www.hackerculture.fm) with some friends (Check it out!) and also helping some old friends begin their journey though computer science and cyber security!
+Currently, I am working on building [Hacker Culture FM](https://www.hackerculture.fm) and [Miscreants](https://www.miscreantshq.com) with some friends (Check them out!)
 
 Anyways, stay awhile, and enjoy your stay!
