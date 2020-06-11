@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: post
+author: JYCSEC
 title: Gym Methodology
 category: Fitness
 ---

@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: post
+author: JYCSEC
 title: Nutrition
 category: Fitness
 ---

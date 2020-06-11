@@ -6,23 +6,17 @@ permalink:           pretty
 # Setup
 title:               JYCSEC
 subtitle:	     Ju Youn Chae
-tagline:             'Thrill Seeker with Hacking Issues'
-description:         'Just here to post my stories on security, running, traveling, learning music, and psychology!'
+tagline:             'Ju Youn Chae'
+description:         'Thrill Seeker with Hacking Issues'
 url:                 https://jycsec.com
 baseurl:             ''
 gems:			[jekyll-paginate]
 paginate:            5
 
 collections:
-  write-ups:
+  Blog:
     output: true
-    permalink: /write-ups/:name
-  security:
-    output: true
-    permalink: /security/:name
-  hobbies:
-    output: true
-    permalink: /hobbies/:name
+    permalink: /blogs/:name
 
 # About/contact
 author:
